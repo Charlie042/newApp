@@ -1,11 +1,11 @@
 import Navbar from "./Navbar";
 import Slide from "./Slide";
-import Feature from "./feature";
+import Feature from "./Feature";
 import Post from "./Post";
 import Testimonial from "./Testimonial";
 import CartBackground from "./CartBackground";
-import Footer from "./footer";
-import ProductContainer from "./productContainer";
+import Footer from './Footer'
+import ProductContainer from "./ProductContainer";
 
 function Main() {
   return (
